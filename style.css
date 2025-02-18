@@ -1,0 +1,13 @@
+button{
+    background-color: blue;
+    font-size: larger;
+    color: aqua;
+}
+.form1{
+    background-color: brown;
+    width: fit-content;
+    padding: 20px;
+    margin: auto;
+    box-shadow: 0px 0px 0px rgb(red,green,blue);
+    border-radius: 30px;
+}
